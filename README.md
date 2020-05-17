@@ -10,3 +10,5 @@ Hardware e software livre para produção e distribuição automatizada de alime
 - Otimizar de forma performática o tempo gasto pela sociedade e comunidade em geral para produção de alimentos.
 # Recursos humanos: Estagiários
 - Cursos UFRR: Ciẽncias da Computação, Engenharia Elétrica e Gastronomia.
+# Status
+Esperando por recursos financeiros.
